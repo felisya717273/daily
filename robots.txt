@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://felisya717273.github.io/daily/sitemap.xml
